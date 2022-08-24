@@ -1,0 +1,14 @@
+en-au-ocker:
+  faker:
+    name:
+      # Existing faker field, new data
+      image:
+        - https://mundopng.files.wordpress.com/2017/03/luffy_one_piece_5_render_by_carolester-d5ldjtl-cc3b3pia.png
+        - https://mundopng.files.wordpress.com/2017/03/roronoa_zoro_by_wowauwero-d5r51ve.png
+        - https://mundopng.files.wordpress.com/2017/03/i_got_my_eye_on_you_by_ewangeli-d5knw49.png
+        - https://mundopng.files.wordpress.com/2017/03/chopper.png
+        - https://mundopng.files.wordpress.com/2017/03/franky.png
+        - https://mundopng.files.wordpress.com/2017/03/nami_by_iriskis-d4yhhqt.png
+        - https://mundopng.files.wordpress.com/2017/03/one-piece-sanji-transparent-png-cc3b3pia.png
+        - https://mundopng.files.wordpress.com/2017/03/nico_robin.png
+        - https://cdn140.picsart.com/361501120019211.png?to=crop&type=webp&r=1456x1973&q=85
